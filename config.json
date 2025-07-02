@@ -82,7 +82,7 @@
       "name": "iKun资源"
     }
     "taop": {
-    "api": "https://www.taopianzy.com/vod/",
+    "api": "https://taopianapi.com/cjapi/sda/vod",
     "name": "淘片"
     }
   }
