@@ -81,5 +81,9 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
+    "taop": {
+    "api": "https://www.taopianzy.com/vod/",
+    "name": "淘片"
+    }
   }
 }
